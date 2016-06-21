@@ -1,0 +1,23 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "npm publish test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SangHakLee/npmtest.git"
+  },
+  "keywords": [
+    "npm",
+    "publish"
+  ],
+  "author": "Ryan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SangHakLee/npmtest/issues"
+  },
+  "homepage": "https://github.com/SangHakLee/npmtest#readme"
+}
